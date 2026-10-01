@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtualenv
+gesture_env/
+
+# Vosk model and other large downloads
+models/
+*.zip
+
+# Temp files
+tempCodeRunnerFile.py
+temp_*
+
+# Packaging/build
+packaging/
+
+# VS Code
+.vscode/
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+gesture_env/
+venv/
+.env/
+.Python
+
+# Editor
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS
+Thumbs.db
+.DS_Store
+
